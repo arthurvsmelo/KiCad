@@ -8165,7 +8165,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MC1496BPG:MC1496BPG"
+		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads"
 			(at 125.73 130.81 0)
 			(effects
 				(font
@@ -9951,7 +9951,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4930597-f9e6-40a2-8787-e3b4a2467032")
-		(property "Reference" "J1"
+		(property "Reference" "P1"
 			(at 267.97 134.6199 90)
 			(effects
 				(font
@@ -10009,7 +10009,7 @@
 		(instances
 			(project "EXPERIMENTOS_ELN3"
 				(path "/233e5c0c-a235-4d8c-b5ea-273737d0ab22"
-					(reference "J1")
+					(reference "P1")
 					(unit 1)
 				)
 			)
